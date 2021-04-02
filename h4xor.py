@@ -1,4 +1,8 @@
 ###
+## IF YOU RUN THIS, MAKE SURE YOU RUN THE .py IN A CMD, NOT YOUR IDE. COLOR CODES AND OVERALL VISUALS MAY DIFFER WITH AN IDE
+###
+
+###
 ## A program I made to "mock", per se, "9 y/o's"
 ###
 
